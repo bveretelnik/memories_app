@@ -1,5 +1,5 @@
 {
-  "name": "memories_app",
+  "name": "server",
   "version": "1.0.0",
   "description": "App with React + Redux, Node, Express",
   "main": "index.js",
@@ -22,8 +22,7 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "goose": "0.0.3",
-    "mon": "0.0.8",
+    "mongoose": "^5.11.13",
     "nodemon": "^2.0.7"
   }
 }
