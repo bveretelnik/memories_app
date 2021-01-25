@@ -1,0 +1,29 @@
+{
+  "name": "memories_app",
+  "version": "1.0.0",
+  "description": "App with React + Redux, Node, Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bveretelnik/memories_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bveretelnik/memories_app/issues"
+  },
+  "homepage": "https://github.com/bveretelnik/memories_app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "goose": "0.0.3",
+    "mon": "0.0.8",
+    "nodemon": "^2.0.7"
+  }
+}
